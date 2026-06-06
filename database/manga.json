@@ -1,0 +1,39 @@
+{
+  "manga_id": "dragonslayer-peerless-regression-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "드래곤 슬레이어의 회귀",
+  "status": "Ongoing",
+  "author": "Ugak",
+  "artist": "Yusi",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Umat manusia berada di ambang kepunahan akibat serangan ras naga. Setelah kehilangan semua kawan-kawannya, pemburu naga terakhir berhasil memenggal raja naga, namun ia terluka parah dan mati. Namun, keajaiban terjadi. Ia terbangun kembali di masa lalu sebelum invasi naga dimulai, berbekal pengetahuan dan kekuatan dari kehidupan sebelumnya untuk mengubah takdir dunia.",
+  "cover_url": "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/covers/dragonslayer.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The End and The Beginning",
+      "image_links": [
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch01/page_001.jpg",
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch01/page_002.jpg",
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch01/page_003.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Academy Enrollment",
+      "image_links": [
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch02/page_001.jpg",
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch02/page_002.jpg",
+        "https://raw.githubusercontent.com/dummy-account/monstacomic-assets/main/dragonslayer/ch02/page_003.jpg"
+      ]
+    }
+  ]
+}
